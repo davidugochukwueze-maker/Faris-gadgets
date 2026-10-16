@@ -1,0 +1,12 @@
+{
+  "name": "faris-gadgets",
+  "version": "1.0.0",
+  "description": "Faris Gadgets backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
